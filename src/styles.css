@@ -1,0 +1,76 @@
+.clear {
+  clear: both;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+}
+
+.container .operation-information h4 {
+  color: #0c5460;
+  margin-bottom: 20px;
+}
+.rate-information {
+  width: 300px;
+  float: left;
+}
+
+.container .rate-information h3 {
+  color: #0c5460;
+  margin-bottom: 20px;
+}
+.container .rate-information h4 {
+  color: #0c5460;
+  margin-bottom: 20px;
+}
+
+.box {
+  margin: 20px 0;
+  width: 180px;
+}
+.rate-type {
+  margin-top: 50px;
+}
+.operation-information {
+  position: fixed;
+  top: 40px;
+  left: 415px;
+  width: 300px;
+}
+.operation-information h3 {
+  color: #0c5460;
+  margin-bottom: 20px;
+}
+.result {
+  position: fixed;
+  top: 40px;
+  left: 730px;
+  width: 500px;
+}
+.table thead {
+  font-style: oblique;
+  font-weight: bold;
+}
+.table thead th {
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.comboresult {
+  width: 180px;
+}
+.custom-control-label {
+  color: #0c5460;
+}
+.table-info {
+  color: #0c5460;
+}
+#operationbutton {
+  margin-right: 10px;
+  width: 100px;
+  color: #0c5460;
+  background-color: #bee5eb;
+}
+#inputs {
+  width: 210px;
+}

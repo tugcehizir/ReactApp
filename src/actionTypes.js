@@ -1,0 +1,10 @@
+export const SET_INTEREST = "SET_INTEREST";
+export const SET_MATURITY = "SET_MATURITY";
+export const SET_PRINCIPAL = "SET_PRINCIPAL";
+export const ADD_INSTALLMENT = "ADD_INSTALLMENT";
+export const SET_LIST = "SET_LIST";
+export const SET_REMAINING_PRINCIPAL = "SET_REMAINING_PRINCIPAL";
+export const SET_RATE = "SET_RATE";
+export const OPTION_LIST = "OPTION_LIST";
+export const SET_RATE_BUY = "SET_RATE_BUY";
+export const SELECTED_RADIO = "SELECTED_RADIO";
